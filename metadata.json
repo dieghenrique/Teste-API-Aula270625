@@ -1,0 +1,6 @@
+{
+  "name": "Analista Contábil IA",
+  "description": "Extraia dados de demonstrações contábeis e gere análises inteligentes com IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
